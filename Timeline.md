@@ -8,6 +8,8 @@
 
 * **Dec 26** - Train
 
+* **Jan 8** - Vanderbilt Starts :/
+
 * **Jan 10** - Return
 
 ## Detailed Timeline
