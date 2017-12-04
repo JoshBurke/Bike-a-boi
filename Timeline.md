@@ -13,5 +13,7 @@ Jan 10 - Return
 ## Detailed Timeline
 
 ### Dec 26
+Get on the train, try not to fall off!
 
 ### Dec 27
+Still on the train. DO some other stuff
