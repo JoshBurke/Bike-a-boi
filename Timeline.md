@@ -1,8 +1,8 @@
 [Back to outline](https://github.com/JoshBurke/Bike-a-boi/blob/master/README.md)
 # Timeline
-[Overview]()
+[Overview](https://github.com/JoshBurke/Bike-a-boi/blob/master/Timeline.md#overview)
 
-[Detailed Timeline]()
+[Detailed Timeline](https://github.com/JoshBurke/Bike-a-boi/blob/master/Timeline.md#detailed-timeline)
 
 ## Overview
 
