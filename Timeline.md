@@ -6,9 +6,9 @@
 
 ## Overview
 
-Dec 26 - Train
+<b>Dec 26</b> - Train
 
-Jan 10 - Return
+<b>Jan 10</b> - Return
 
 ## Detailed Timeline
 
