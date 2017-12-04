@@ -1,5 +1,8 @@
 # Bike-a-boi
-Trip Planning for Winter Break
+Welcome to our trip planning manifesto for Winter Break 2k17!
+
+Please see the links below for further information.
+
 Josh Burke, Camden Ko, Will Bauer
 
 ## Outline - See links for detailed guides
